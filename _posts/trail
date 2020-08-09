@@ -1,0 +1,50 @@
+---
+layout: post
+title: 实验写作
+date: 2020-8-9
+Author: 袁野
+categories: academic
+tags: [sample, trail]
+comments: true
+--- 
+
+# 输入 type in
+
+输入一下内容，看有什么显示。
+现在是提行写第二句。
+
+现在是提行两次写第三句。
+
+# 引用 citation
+
+> 现在是尝试用一级引用
+> This is the trial for a citation in English
+>
+> > 二级引用尝试
+> > second citation
+>
+> 返回到一级引用
+> back to the first layer
+
+## 链接 superlink
+
+我是从[这里][1]学习怎么制作页面的。
+  [1]: https://fromendworld.github.io/LOFFER/document/#   
+
+
+# 列表 list
+
+1. One
+2. Two
+3. Three
+
+# 强调 stress
+
+*斜体*
+*italic*
+
+**粗体**
+**bold**
+
+***斜粗***
+***italic and bold***
